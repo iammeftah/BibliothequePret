@@ -1,0 +1,8 @@
+wav/hmed/microservicepret/service/PretService.class
+wav/hmed/microservicepret/client/LivreClient.class
+wav/hmed/microservicepret/config/AppConfig.class
+wav/hmed/microservicepret/controller/PretController.class
+wav/hmed/microservicepret/model/Pret.class
+wav/hmed/microservicepret/MicroservicePretApplication.class
+wav/hmed/microservicepret/client/UserClient.class
+wav/hmed/microservicepret/repository/PretRepository.class
