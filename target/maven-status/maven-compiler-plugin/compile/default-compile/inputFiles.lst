@@ -2,6 +2,7 @@
 /home/meftah/tobedeployedonrender/Bibliotheque/microservice-pret/src/main/java/wav/hmed/microservicepret/client/LivreClient.java
 /home/meftah/tobedeployedonrender/Bibliotheque/microservice-pret/src/main/java/wav/hmed/microservicepret/client/UserClient.java
 /home/meftah/tobedeployedonrender/Bibliotheque/microservice-pret/src/main/java/wav/hmed/microservicepret/config/AppConfig.java
+/home/meftah/tobedeployedonrender/Bibliotheque/microservice-pret/src/main/java/wav/hmed/microservicepret/config/WebConfig.java
 /home/meftah/tobedeployedonrender/Bibliotheque/microservice-pret/src/main/java/wav/hmed/microservicepret/controller/PretController.java
 /home/meftah/tobedeployedonrender/Bibliotheque/microservice-pret/src/main/java/wav/hmed/microservicepret/model/Pret.java
 /home/meftah/tobedeployedonrender/Bibliotheque/microservice-pret/src/main/java/wav/hmed/microservicepret/repository/PretRepository.java
